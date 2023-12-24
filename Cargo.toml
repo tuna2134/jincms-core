@@ -7,7 +7,7 @@ edition = "2021"
 
 [dependencies]
 actix-cors = "0.6.4"
-actix-web = "4.4.0"
+actix-web = "4.4.1"
 chrono = "0.4.31"
 dotenv = "0.15.0"
 env_logger = "0.10.1"
